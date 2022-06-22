@@ -1,1 +1,1 @@
-# data-structures
+# contains codes of linked list operations
